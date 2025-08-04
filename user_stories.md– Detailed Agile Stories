@@ -1,0 +1,24 @@
+# Agile User Stories
+
+## Story 1: Online Intake Form
+
+**As** a new patient,  
+**I want** to fill out my medical and insurance info online,  
+**So that** I can reduce time spent in the clinic.
+
+**Acceptance Criteria:**
+- Required fields: Name, DOB, Insurance
+- Form is mobile and desktop responsive
+- Data is securely stored
+
+---
+
+## Story 2: Mobile Accessibility
+
+**As** a smartphone user,  
+**I want** to complete the form on my phone,  
+**So that** I don't need a computer to fill it out.
+
+**Acceptance Criteria:**
+- Works on iOS and Android
+- Buttons and fields are touch-friendly
